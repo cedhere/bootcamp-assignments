@@ -10,3 +10,8 @@ body {
     font-size: x-large;
     color: white;
 }
+
+#name {
+    color:white;
+    margin: 20rem;
+}
