@@ -1,17 +1,7 @@
-p {
-    color: white;
-}
-
 body {
-    background-color: navy;
-}
-
-.title {
-    font-size: x-large;
-    color: white;
+    background-color: #000435;
 }
 
 #name {
-    color:white;
-    margin: 3rem;
+    color: #034078;
 }
