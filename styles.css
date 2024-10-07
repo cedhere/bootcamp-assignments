@@ -1,7 +1,36 @@
 body {
-    background-color: #000435;
+    background-color: #001F3F;
 }
 
-#name {
-    color: #034078;
+.headings {
+    color: #FFD700;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    align-items: center;
+}
+
+.background-square {
+    background-color: #001F3F;
+}
+
+.lists {
+    color: white;
+    text-align: center;
+}
+
+#headshot {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
 }
