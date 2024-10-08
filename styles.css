@@ -34,3 +34,13 @@ a {
     margin-right: auto;
     width: 200px;
 }
+
+#experience-div {
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox {
+    padding: 10px;
+    margin: 20px;
+}
