@@ -1,5 +1,5 @@
-# bootcamp-personal-website
-A repository for build my personal website from UMD App Dev Club's lessons
+# bootcamp-assignments
+A repository for completing my homework assignments for the UMD AppDev club Web Devlopment bootcamp
 
 Currently learning version control with git and brushing up on basic HTML/CSS
 
